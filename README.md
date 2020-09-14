@@ -1,1 +1,1 @@
-Devops | SRE | DBOps
+DevOps | SRE | GitOps | SysOps | DBOps
